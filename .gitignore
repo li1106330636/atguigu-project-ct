@@ -1,0 +1,9 @@
+# Project exclude paths
+/aaa/target/
+/ct-analysis/target/
+/ct-cache-ext/target/
+/ct-common/target/
+/ct-consumer/target/
+/ct-consumer-coprocessor/target/
+/ct-producer/target/
+/ct-web/target/
